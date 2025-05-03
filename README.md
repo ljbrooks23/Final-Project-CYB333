@@ -3,9 +3,13 @@
 # Project Overview
 
 Python based Port Scanner with Banner Grabbing and Vulnerability Detection
+
 -Perform Port Scan on target
+
 -Grab Banners from open ports
+
 -Check Banners against known vulnerability database
+
 -Print matching vulnerabilities
 
 ## Features
