@@ -25,8 +25,7 @@ check vulnerabilities
 Download Python
 
 Run the scan
-
-  python vuln_scan.py
+ - python vuln_scan.py
 
 ONLY INTENTED FOR EDUCATIONAL PURPOSES
 
